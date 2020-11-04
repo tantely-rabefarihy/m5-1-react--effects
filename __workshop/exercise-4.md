@@ -8,4 +8,8 @@ We can use `useEffect` here! Whenever the `numCookies` state is changed, we want
 
 Give this a shot. The solution is shown below.
 
+<!-- ****\*\*\***** FYI****\*\***** -->
+
+The link below is broken I think.
+
 > 🆘 **If you are stuck, or want to compare, you can look at this [hint](./_hints/hint-1.md).**
